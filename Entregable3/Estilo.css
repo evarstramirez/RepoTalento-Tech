@@ -1,0 +1,17 @@
+body{background-color: rgb(204, 224, 241);}
+header{background-color: rgb(166, 166, 242);}
+h1{color: rgb(17, 17, 74);text-align: center;}
+p{font-size: 130%;}
+table{margin-top: 50px;margin-left: 400px;}
+form{margin-top: 50px; margin-left: 400px; margin-right:945px; display: block;}
+label{display: block;margin-bottom: 1px;}
+footer{background-color: rgb(166, 166, 242);margin-top: 50px;padding: 20px;text-align: center;margin: 50px;}
+a{margin: 25px;}
+legend{font-weight: bold; background-color: rgb(204, 224, 241);}
+strong{background-color:  rgb(166, 166, 242);}
+th{background-color: rgb(166, 166, 242);}
+button{background-color: rgb(92, 79, 233);margin-top: 10px;color: white;}
+button:hover{background-color: rgb(135, 5, 5);color: rgb(209, 75, 75);}
+.container{display: flex;gap: 40px;margin-left: 135px; margin-right: 400px;}
+.container2{display: flex;margin-left: 400px;margin-right: 300PX; margin-top: 50px;}
+#para1{background-color: rgb(166, 166, 242);}
